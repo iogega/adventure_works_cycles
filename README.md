@@ -7,3 +7,5 @@ and identify high value customers.
 Objective: Design and deliver an end to end business intelligence solution from scratch!
 
 Files provided: raw csv files containing information about transactions, returns, products, customers and territories.
+
+Note that the final PowerBi dashboard is named AdventureWorks_Report.
